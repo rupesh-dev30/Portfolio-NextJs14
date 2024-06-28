@@ -40,7 +40,7 @@ export default function Photo() {
             cx="253"
             cy="253"
             r="250"
-            stroke="#00ff99"
+            stroke="#FEE01C"
             strokeWidth="4"
             strikeLinecap="round"
             strokeLinejoin="round"
