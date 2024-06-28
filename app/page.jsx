@@ -3,6 +3,7 @@ import Social from "@/components/Social";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { FiDownload } from "react-icons/fi";
+import { metadata } from "./layout";
 
 export default function Home() {
   return (
