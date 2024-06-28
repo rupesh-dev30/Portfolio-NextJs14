@@ -1,6 +1,7 @@
 import Photo from "@/components/Photo";
 import Social from "@/components/Social";
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 import { FiDownload } from "react-icons/fi";
 
 export default function Home() {
@@ -15,18 +16,21 @@ export default function Home() {
               <span className="text-accent">Rupesh Kumar</span>
             </h1>
             <p className="max-w-[550px] mb-9 text-white/80">
-            I am adept at creating visually stunning webpages and have proficiency in numerous programming languages and technologies.
+              I am adept at creating visually stunning webpages and have
+              proficiency in numerous programming languages and technologies.
             </p>
 
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Button
-                variant="outline"
-                size="lg"
-                className="uppercase flex items-center gap-6"
-              >
-                <span>Download CV</span>
-                <FiDownload className="text-xl" />
-              </Button>
+              <Link href="https://drive.google.com/file/d/1ocMYVJXEeQIYl4n6ZEKT5GTq2RPx9aZ3/view" target="_blank">
+                <Button
+                  variant="outline"
+                  size="lg"
+                  className="uppercase flex items-center gap-6"
+                >
+                  <span>Download CV</span>
+                  <FiDownload className="text-xl" />
+                </Button>
+              </Link>
               <div className="mb-8 xl:mb-0">
                 <Social
                   containerStyles="flex gap-6"
