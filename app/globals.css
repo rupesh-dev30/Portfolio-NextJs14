@@ -13,7 +13,13 @@
     @apply text-[36px] xl:text-[48px] leading-[1.1] font-semibold;
   }
   .h3 {
-    @apply text-[20px] xl:text-[2
-    px] leading-[1.1] font-semibold;
+    @apply text-[20px] xl:text-[2px] leading-[1.1] font-semibold;
+  }
+  .text-outline {
+    -webkit-text-stroke: 1px #ffffff;
+  }
+  
+  .text-outline-hover {
+    -webkit-text-stroke: 1px #00ff99;
   }
 }
