@@ -22,7 +22,7 @@ export default function Home() {
             </p>
 
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Link href="https://drive.google.com/file/d/1ocMYVJXEeQIYl4n6ZEKT5GTq2RPx9aZ3/view" target="_blank">
+              <Link href="https://drive.google.com/file/d/1jDLmhI8S7q3ESbDPeqb1bGzCbn2ko1wO/view" target="_blank">
                 <Button
                   variant="outline"
                   size="lg"
