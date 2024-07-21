@@ -26,10 +26,12 @@ import {
   SiCplusplus,
   SiUnrealengine,
   SiExpress,
+  SiShadcnui,
 } from "react-icons/si";
 import { IoSchoolSharp } from "react-icons/io5";
 import { DiMongodb } from "react-icons/di";
 import { motion } from "framer-motion";
+
 
 const about = {
   title: "About me",
@@ -67,7 +69,7 @@ const education = {
 
   items: [
     {
-      institution: "CHandigarh Engineering College, Landran",
+      institution: "Chandigarh Engineering College, Landran",
       degree: "Bachelors in Computer Sceience Engineering",
       score: "8.31 CGPA",
       duration: "2022-Present",
@@ -125,8 +127,8 @@ const skills = {
       name: "Next.Js",
     },
     {
-      icon: <SiNextdotjs />,
-      name: "Next.Js",
+      icon: <SiShadcnui />,
+      name: "ShadCN",
     },
     {
       icon: <SiTailwindcss />,
