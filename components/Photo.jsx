@@ -22,7 +22,7 @@ export default function Photo() {
           className="w-[258px] h-[258px] xl:w-[498px] xl:h-[498px] mix-blend-lighten absolute"
         >
           <Image
-            src="/assets/rupesh.png"
+            src="/assets/rupesh1.png"
             priority
             quality={100}
             fill
