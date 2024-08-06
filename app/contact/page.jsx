@@ -52,9 +52,14 @@ export default function Contact() {
             <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl">
               <h3 className="text-4xl text-accent">Let&apos;s work together</h3>
               <p className="text-white/60">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. In,
-                doloremque veniam repellat ipsa porro sint praesentium enim
-                earum. Non, ratione!
+                Welcome to my work page! I am passionate about collaborating on
+                innovative projects and bringing ideas to life. With a strong
+                background in full stack web development and proficiency in
+                various programming languages and frameworks, I am eager to
+                contribute to your project's success. Whether you need a skilled
+                developer to build a web application, enhance your existing
+                platform, or tackle complex technical challenges, I am here to
+                help. Let's join forces and create something amazing together!
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <Input type="firstname" placeholder="Firstname" />

@@ -36,7 +36,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About me",
   description:
-    "Third-year BTech student passionate about full stack web development, data structures, algorithms, C++, C, Java, Python programming language. Eager to apply theoretical knowledge to practical projects and committed to continual learning and growth in the field of computer science.",
+    "BTech student passionate about full stack web development, data structures, algorithms, C++, C, Java, and Python programming languages. Eager to apply theoretical knowledge to practical projects and committed to continual learning and growth in the field of computer science.",
   info: [
     {
       fieldName: "Name",
@@ -65,13 +65,13 @@ const education = {
   icon: <IoSchoolSharp />,
   title: "My education",
   description:
-    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum optio amet illum, corporis consequatur voluptatum et vel ipsam distinctio eos!",
+    "I am currently pursuing a Bachelor's degree in Computer Science Engineering from Chandigarh Engineering College, maintaining a CGPA of 8.10. I completed my intermediate and matriculation at Kendriya Vidyalaya, Bokaro Thermal, with scores of 87% and 85%, respectively. During my academic journey, I have engaged in various projects, competitions, and extracurricular activities, which have helped me develop strong technical and interpersonal skills.",
 
   items: [
     {
       institution: "Chandigarh Engineering College, Landran",
       degree: "Bachelors in Computer Sceience Engineering",
-      score: "8.31 CGPA",
+      score: "8.10 CGPA",
       duration: "2022-Present",
     },
     {
@@ -92,7 +92,7 @@ const education = {
 const skills = {
   title: "My skills",
   description:
-    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum optio amet illum, corporis consequatur voluptatum et vel ipsam distinctio eos!",
+    "I have a diverse set of skills in full stack web development and programming. My expertise spans HTML5, CSS, JavaScript, and various frameworks and libraries including Node.js, Express.js, and React.js. Additionally, I am proficient in C++, Java, and have experience with databases like MongoDB and styling tools such as Tailwind CSS. I am also familiar with Next.js, ShadCN UI library, and Unreal Engine.",
   skillList: [
     {
       icon: <FaHtml5 />,
