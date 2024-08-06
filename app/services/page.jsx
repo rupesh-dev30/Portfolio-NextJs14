@@ -7,22 +7,22 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, esse!",
-    href: "",
+      "Creating dynamic, responsive websites tailored to your needs.",
+    href: "/contact",
   },
   {
     num: "02",
     title: "Apk Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, esse!",
-    href: "",
+      "Building custom mobile applications for all platforms.",
+    href: "/contact",
   },
   {
     num: "03",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem, esse!",
-    href: "",
+      "Designing intuitive user interfaces and engaging experiences for your digital products.",
+    href: "/contact",
   },
 ];
 
